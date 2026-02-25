@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "世界滅亡 or KISS",
+  "base_artist": "喜多日菜子 (CV: 深川芹亜)",
+  "createdAt": "2026-02-25T13:02:21.593385Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界滅亡 or KISS",
+      "artist": "喜多日菜子(CV:深川芹亜)",
+      "has_synced": false,
+      "path": "select/pl_01_世界滅亡_or_KISS_喜多日菜子(CV_深川芹亜).txt"
+    }
+  ]
+}
